@@ -14,3 +14,4 @@ FILE 6. INVOICE PROCESSING AUTOMATION TOOL. SAP scripts to automate daily tasks 
 
 FILE 7. SAP SCRIPT. TASK TO REBILL COST. Monthly task to rebills costs between internal affiliates. Several macros embedded inside to allow human interaction between tasks. It starts downloading data from SAP several times to create the base data. This task is done 2 times, with buttons 1 and 3. Buttons 2 and 4 are used to copy-paste values and output the format needed.
 
+FILE 8. SAP SCRIPT. REPORT TOOL. Daily task to be carried. Macro built in order to gather data and build a report in order to assess and allocate workload.
