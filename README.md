@@ -17,3 +17,6 @@ FILE 7. SAP SCRIPT. TASK TO REBILL COST. Monthly task to rebills costs between i
 FILE 8. SAP SCRIPT. REPORT TOOL. Daily task to be carried. Macro built in order to gather data and build a report in order to assess and allocate workload.
 
 FILE 9. SAP &IE SCRIPTS + EXCEL TASK. MONTHLY DATA RECONCILIATION 2. Monthly task to reconcile & analyse data. The purpose is to compile data monthly and maintain a format to compare and reconcile 2 systems. It downloads data coming from an external database using a date range imput by the user. It goes from copying data to applying formulas, connecting to SAP, connecting to a website through Internet Explorer and formatting and comparing it all. It provides a usmmary of the unreconciled findings.
+
+FILE 10. SAP SCRIPT. PROCESS TO REDUCE MANUAL TASKS. SAP scripts to download data & format it to reduce manual tasks from users. The purpose is running the tool every week to automate daily tasks related to invoice processing. the intention is finding the necessary coding information (cost objects).
+
