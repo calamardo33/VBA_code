@@ -24,3 +24,4 @@ FILE 11 & FILE 12. Used together to automate a task. FILE 11. SAP Script. Yellow
 
 FILE 13. SAP Script. Monthly report. Monthly task to check the current volumes on the refineries, find imbalances and perform a reconciliaition. The result is formatted on to a table found on the "RESULT" sheet.
 
+FILE 14. EXCEL TASK. MONTHLY COMPILATION AND RECONCILIAITION OF DATA. Monthly task that saves hours of data collection manual task from excel spreadsheets. That is the most interesting part of this file using arrays to compile all data quickly. It stores in arrays all individual volumes per material and dates. It then formats data, apply formulas and calculations, creates pivot tables to get totals per type of material and checks for differences and potentiall issues on the calculations. 
