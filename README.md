@@ -20,3 +20,4 @@ FILE 9. SAP &IE SCRIPTS + EXCEL TASK. MONTHLY DATA RECONCILIATION 2. Monthly tas
 
 FILE 10. SAP SCRIPT. PROCESS TO REDUCE MANUAL TASKS. SAP scripts to download data & format it to reduce manual tasks from users. The purpose is running the tool every week to automate daily tasks related to invoice processing. the intention is finding the necessary coding information (cost objects).
 
+FILE 11 & FILE 12. Used together to automate a task. FILE 11. SAP Script. Yellow note part 1. downloads data from SAP and formats it to upload it using file 12. FILE 12. RFC. Yellow note part 2. The only Access file of the group. This file was pure gld at the time. We used Open Text to view invoices in SAP. This file input the information provided as a note (yellow note) inside the Open text files of the invoices. It uses RFC (Remote Function Calls), some SQL and several vba functions. 
